@@ -5,7 +5,7 @@
 
  💡 Objetivo: 
    - Criar uma landing page para exercitar o conteúdo passado pela Ada Tech em parceria com a Universidade TOTVS;
-   - O Desafio consiste em acrescentar o Bootstrap ao html e css estáticos;
+   - O Desafio consiste em acrescentar o Bootstrap ao HTML e CSS estáticos;
    - Em grupo de quatro pessoas: Mayla, Ana Karina, Lucas e João foi construído a solução deste desafio;
    - Acrescentamos uma seção abaixo dos cards e o rodapé. 
 
